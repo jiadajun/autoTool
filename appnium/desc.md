@@ -57,3 +57,27 @@ Appium Desktop
 
 入门指南
 恭喜！你现在有足够的知识来使用 Appium 了。 为什么不前往 入门指南(English) 了解更多详细的要求和指南呢？
+
+
+
+界面元素查看 ：
+
+
+Android Sdk uiautomateviewer
+
+
+C:\Users\12280\AppData\Local\Android\Sdk\tools\bin 
+
+如果打不开 就是java版本不兼容 
+
+appium Desktop appium inspector
+
+https://github.com/appium/appium-inspector/releases
+
+
+
+
+
+
+
+
