@@ -148,6 +148,11 @@ Airtest是一个跨平台的UI自动化测试框架，适用于游戏和App。
 以下文档会介绍Airtest的基本用法，以及提供API文档
 
 
+![img.png](img.png)
+
+
+
+
 
 
 
